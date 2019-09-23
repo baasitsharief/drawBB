@@ -7,6 +7,7 @@ A python script to draw bounding boxes on ground truth and detections for YOLO a
 2. Have all the ground truth and detections saved in a text file with their names according to the image name of it.
 3. Move the ground truth files  and the detection files in ground-truth-txt and detection-results-txt respectively.
 4. Run main.py. 
+5. The results are stored in ground-truth-BB and detection-results-BB.
 
 # Notes - 
 1. The code prints only class ids along with bounding boxes, if you want to print the class names instead, comment out lines 16, 36 and uncomment 17, 37, 75, 76, 78 and make sure you have a class_lists.txt in the following format. eg- classid 0 corresponds to car and classid 1 corresponds to 2-wheeler, the file should have -
