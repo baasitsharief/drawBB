@@ -1,5 +1,5 @@
 # drawBB
-A python script to draw bounding boxes on ground truth and detections for YOLO and VOC if bounding box outputs are saved in a text file and can be used for other formats of co-ordinates too.
+A python script to draw bounding boxes on ground truth and detections for YOLO and VOC if bounding box outputs are saved in a text file.
 
 # Steps
 
