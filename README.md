@@ -3,8 +3,10 @@ A python script to draw bounding boxes on ground truth and detections for YOLO a
 
 ## Sample Output
 
+### Ground Truth
 ![Input-Bounding box drawn](ground-truth-BB/image1.jpg)
 
+### Detection 
 ![Output-Bounding box drawn](detection-results-BB/image1.jpg)
 
 ## Steps
