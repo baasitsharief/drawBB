@@ -1,9 +1,9 @@
 # Draw Bounding Boxes
 A python script to draw bounding boxes on ground truth and detections for YOLO and VOC if bounding box outputs are saved in a text file.
 
-![Input-Bounding box drawn](image1.jpg)
+![Input-Bounding box drawn](ground-truth-BB/image1.jpg)
 
-![Output-Bounding box drawn](image1.jpg)
+![Output-Bounding box drawn](detection-results-BB/image1.jpg)
 
 ## Steps
 
